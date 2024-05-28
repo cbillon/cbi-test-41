@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = /data/modules/moodle-tool_redis
+	branch = MOODLE_400_STABLE
+	commit = cc2933be5c11caebe7c195b3acc102841f4c8446
+	parent = 6b4d02840c72eace34288d8ae4f153277a7b7e74
+	method = merge
+	cmdver = 0.4.6
