@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = /data/modules/moodle-report_benchmark
+	branch = master
+	commit = ae512d5d64c513443ccc28618e268539334b5cf1
+	parent = 3897f00e737b67430b5c6d14ea7f888d550dc51a
+	method = merge
+	cmdver = 0.4.6
