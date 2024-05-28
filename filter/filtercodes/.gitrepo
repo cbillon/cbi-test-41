@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = /data/modules/moodle-filter_filtercodes
+	branch = master
+	commit = 4ca6a2b3428e3c636437cbfdbf2ab08e6725da18
+	parent = f6c847141ffeb8ca51a0875de317c8f0ec5b1e79
+	method = merge
+	cmdver = 0.4.6
