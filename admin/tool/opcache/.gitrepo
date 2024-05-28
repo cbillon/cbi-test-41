@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = /data/modules/moodle-tool_opcache
+	branch = MOODLE_400_STABLE
+	commit = d3014102606fd0130894eb1112539e6b78a38bcb
+	parent = 9cc35810a8860c2e0b0da1b77f50231e9d418f69
+	method = merge
+	cmdver = 0.4.6
