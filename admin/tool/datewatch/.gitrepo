@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = /data/modules/moodle-tool_datewatch
+	branch = master
+	commit = 1da6b605433e1278cfac7d39bd15283fda50f1ba
+	parent = 4e04339cbd5e7e69faa20039672fa1a888ed7998
+	method = merge
+	cmdver = 0.4.6
